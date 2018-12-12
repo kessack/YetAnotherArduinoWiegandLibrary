@@ -95,7 +95,7 @@ void receivedData(uint8_t* data, uint8_t bits, const char* message) {
 
 # Wiegand Protocol
 
-The Wiegand protocol is very and easy to implement, but is poorly standarlized.
+The Wiegand protocol is very and easy to implement, but is poorly standardized.
 
 
 ## Data transmission
